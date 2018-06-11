@@ -1,5 +1,4 @@
-# graph-fleas
-## Graph theory turns into complex systems
+# Graph theory turns into complex systems
 
 Read whitepaper for (technical) breakdown of phenomena, proofs, results to explore
 
